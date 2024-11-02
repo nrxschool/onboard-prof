@@ -1,5 +1,8 @@
 # Onboard Professor
 
+- Os cursos podem ter um repositório para compartilhar materiais extras.
+- Esses materiais podem ser: roteiros de aulas, código, pdf, slides ou outra coisa que o professor ache util
+- O `README` do repo contém a grade do curso
 
 ## Templates
 
